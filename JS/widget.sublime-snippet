@@ -1,0 +1,49 @@
+<snippet>
+    <content><![CDATA[
+odoo.define('module.widget_name', function (require) {
+"use strict";
+
+var core = require('web.core');
+var field_utils = require('web.field_utils');
+var time = require('web.time');
+var Widget = require('web.Widget');
+
+var _t = core._t;
+
+var WidgetName = Widget.extend({
+    template: "widget_template",
+    events: {
+    },
+    init: function(parent, options) {
+        this._super.apply(this, arguments);
+    },
+    /**
+     * @override
+     */
+    start: function() {
+
+    },
+    /**
+     * @override
+     */
+    destroy: function() {
+
+    },
+    /**
+     * @returns {Moment|false}
+     */
+    getValue: function () {
+
+    },
+    /**
+     * @returns {boolean}
+     */
+    isValid: function () {
+
+    },
+
+});
+]]></content>
+    <tabTrigger>Odoo widget</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

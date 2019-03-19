@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+fields.Many2one(string='${1}', comodel_name='${2:model.name}', ondelete='${3:cascade}')${0}]]></content>
+    <tabTrigger>fields.Many2one</tabTrigger>
+    <scope>source.python</scope>
+    <description>Common definition for field type Many2one</description>
+</snippet>

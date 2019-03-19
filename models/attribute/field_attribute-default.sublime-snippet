@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+default=lambda self: self._default_${1:field}()${0}
+]]></content>
+    <tabTrigger>default</tabTrigger>
+    <scope>meta.function-call.arguments.python</scope>
+    <description>Attribute: default</description>
+</snippet>

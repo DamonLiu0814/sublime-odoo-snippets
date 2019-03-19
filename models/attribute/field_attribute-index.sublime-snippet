@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+index=True
+]]></content>
+    <tabTrigger>index</tabTrigger>
+    <scope>meta.function-call.arguments.python</scope>
+    <description>Attribute: Index</description>
+</snippet>

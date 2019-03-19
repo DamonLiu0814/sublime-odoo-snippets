@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+fields.Many2many(string='${1}', comodel_name='${2:model.name}', relation='${3:${2/\./_/g}_this_model_rel}', column1='${4:${2/\./_/g}_id}', column2='${5:this_model_id}')${0}]]>
+    </content>
+    <tabTrigger>fields.Many2many</tabTrigger>
+    <scope>source.python</scope>
+    <description>Common definition for field type Many2many</description>
+</snippet>

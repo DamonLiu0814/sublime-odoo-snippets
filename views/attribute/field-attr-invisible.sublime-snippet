@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+invisible="${1:true}"
+]]></content>
+    <tabTrigger>invisible</tabTrigger>
+    <scope>text.xml meta.tag.xml</scope>
+    <description>field attr invisible</description>
+</snippet>

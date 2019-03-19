@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+inverse=lambda self: self._inverse_${1:field}()${0}
+]]></content>
+    <tabTrigger>inverse</tabTrigger>
+    <scope>meta.function-call.arguments.python</scope>
+    <description>Attribute: inverse</description>
+</snippet>

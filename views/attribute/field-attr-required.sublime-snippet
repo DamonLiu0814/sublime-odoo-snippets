@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+required="${1:true}"
+]]></content>
+    <tabTrigger>required</tabTrigger>
+    <scope>text.xml meta.tag.xml</scope>
+    <description>field attr required</description>
+</snippet>

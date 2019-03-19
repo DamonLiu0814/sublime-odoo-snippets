@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+selection_add=[('${1:draft}', ${1}) ${0}]
+]]></content>
+    <tabTrigger>selection_add</tabTrigger>
+    <scope>meta.function-call.arguments.python</scope>
+    <description>Attribute: selection_add </description>
+</snippet>

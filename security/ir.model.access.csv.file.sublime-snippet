@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+]]></content>
+    <tabTrigger>ir.model.access.csv</tabTrigger>
+    <scope>text.plain</scope>
+    <description>ir.model.access.csv file</description>
+</snippet>
+
+

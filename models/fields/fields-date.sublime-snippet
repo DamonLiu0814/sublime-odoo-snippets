@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+fields.Date(string='${1}', default=${2:fields.Date.context_today})${0}]]>
+</content>
+    <tabTrigger>fields.Date</tabTrigger>
+    <scope>source.python</scope>
+    <description>Common definition for field type Date</description>
+</snippet>

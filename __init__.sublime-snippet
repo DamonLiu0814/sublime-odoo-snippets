@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+# -*- coding: utf-8 -*-
+#   2016 Elico Corp (https://www.odooyun.com).
+# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
+
+from . import ${0:models}
+
+]]></content>
+    <tabTrigger>__init__</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

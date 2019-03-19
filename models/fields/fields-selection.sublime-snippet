@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+fields.Selection(string='${1}', selection=[('${2}', '${3}'), ('${4}', '${5}')])${0}]]></content>
+    <tabTrigger>fields.Selection</tabTrigger>
+    <scope>source.python</scope>
+    <description>Common definition for field type Seleccion</description>
+</snippet>

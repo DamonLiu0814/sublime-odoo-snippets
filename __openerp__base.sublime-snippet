@@ -1,0 +1,38 @@
+<snippet>
+    <content><![CDATA[
+# -*- coding: utf-8 -*-
+#   2016 Elico Corp (https://www.odooyun.com).
+# License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
+{
+    'name': 'Module name',
+    'summary': 'Module summary',
+    'version': '10.0.1.0.0',
+    'category': 'category',
+    'website': 'www.odooyun.com',
+    "author": "Damon.Liu",
+    "license": "AGPL-3",
+    "application": False,
+    "installable": True,
+    'description': "description",
+    'depends': [
+        
+    ],
+    'data': [
+        
+    ],
+    'demo': [
+
+    ],
+    'qweb': [
+
+    ],
+    'images': [
+        
+    ],
+}
+
+]]></content>
+    <tabTrigger>__manifest__</tabTrigger>
+    <scope>source.python</scope>
+    <description>Odoo manifest file common structure</description>
+</snippet>

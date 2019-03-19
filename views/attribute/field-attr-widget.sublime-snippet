@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+widget="${1:widget}"
+]]></content>
+    <tabTrigger>widget</tabTrigger>
+    <scope>text.xml meta.tag.xml</scope>
+    <description>field attr widget</description>
+</snippet>
